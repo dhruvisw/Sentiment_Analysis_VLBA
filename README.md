@@ -27,9 +27,14 @@ Redis Worker → MongoDB
 🛠️ Tech Stack
 
 Frontend: React.js
+
 Backend: Flask, REST API
+
 ML: scikit-learn, TF-IDF
+
 Data Layer: MongoDB, Redis Queue
+
 DevOps: Docker, CI/CD
+
 Cloud: Google Cloud Platform
 

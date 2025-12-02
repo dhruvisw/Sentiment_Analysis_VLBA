@@ -1,6 +1,4 @@
-# Sentiment_Analysis_VLBA
-
-🎬 Sentiment Analysis System for Movie Reviews
+# 🎬 Sentiment Analysis System for Movie Reviews
 End-to-End NLP • Microservices • Cloud Deployment • Scalable Architecture
 
 This project implements a full production-style sentiment analysis system for movie reviews — built with modern NLP techniques and deployed using a scalable microservices architecture. Designed as part of the VLBA System Architectures module at OVGU, it demonstrates how ML, software engineering, and cloud technologies come together to deliver fast, reliable, low-latency predictions at scale.

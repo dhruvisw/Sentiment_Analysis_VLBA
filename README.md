@@ -22,19 +22,14 @@ API Gateway (Flask)
 ML Service (scikit-learn model)
         ↓
 Redis Worker → MongoDB
-
+A modular, scalable structure inspired by real-world production ML systems.
 
 🛠️ Tech Stack
 
-Frontend: React.js
-
-Backend: Flask, REST API
-
-ML: scikit-learn, TF-IDF
-
-Data Layer: MongoDB, Redis Queue
-
-DevOps: Docker, CI/CD
-
-Cloud: Google Cloud Platform
+- Frontend: React.js
+- Backend: Flask, REST API
+- ML: scikit-learn, TF-IDF
+- Data Layer: MongoDB, Redis Queue
+- DevOps: Docker, CI/CD
+- Cloud: Google Cloud Platform
 
